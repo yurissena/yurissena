@@ -6,7 +6,7 @@
 
 Hi there! My name is Yuri Sena, I'm software engineer, enthusiast of web development and graduated in computer science at [Tiradentes Institute](https://al.unit.br/ "Centro Universitário Tiradentes"). Constantly open to cooperate on projects and new ideas, but looking for time to enjoying the life.
 
-Current working at [Unique Ingresssos](https://github.com/unique-ingressos "Unique Ingressos")
+Current working at [Edge](https://www.edge.ufal.br/ "Edge")
 
 ## 💻 I work with: 
   ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=for-the-badge&logo=PHP&logoColor=white) 
