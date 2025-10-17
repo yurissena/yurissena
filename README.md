@@ -25,27 +25,28 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const yuri = {
-  location: "Alagoas, Brazil 🇧🇷",
-  currentRole: "Full Stack Developer @ Centro de Inovação Edge",
-  education: "Bachelor in Computer Science @ Tiradentes University",
-  workingOn: "Strategic Petrobras Project - Drilling Well Management",
-  learning: ["Cloud Architecture", "Microservices", "DevOps"],
-  hobbies: ["Coding", "Gaming", "Technology", "Problem Solving"],
-  motto: "Building scalable solutions with clean code"
-};
-```
+🎓 **Bachelor in Computer Science** @ Tiradentes University  
+💼 **Full Stack Developer** @ Centro de Inovação Edge  
+📍 **Location:** Alagoas, Brazil 🇧🇷  
+🚀 **Currently Working On:** Strategic Petrobras Project - Drilling Well Management
 
-### 🚀 Current Focus
-- 💼 Developing **fullstack solutions** for Petrobras strategic project
-- 🏗️ Working with **Java (Spring Boot)** and **Angular**
-- 🎯 Optimizing critical features for **performance** and **scalability**
-- 🌱 Exploring **cloud technologies** and **best practices**
+I'm a passionate Full Stack Developer focused on building **scalable**, **high-performance** web applications. I work with **Java**, **Spring Boot**, **Angular**, and **TypeScript** to deliver clean and efficient solutions. Currently developing fullstack solutions for Petrobras' strategic project, optimizing critical features for performance, scalability, and reliability.
+
+### 🎯 What I'm Focused On
+- � Building solutions for **Petrobras** (largest oil company in Brazil)
+- 🏗️ Developing with **Java (Spring Boot)** and **Angular**
+- 📈 Optimizing systems for **performance** and **scalability**
+- 🌱 Learning **Cloud Architecture**, **Microservices**, and **DevOps**
+
+### ⚡ Fun Facts
+- 🎮 Gaming enthusiast and technology lover
+- 🧩 Passionate about problem-solving
+- 💻 Always exploring new technologies
+- 🤝 Open to collaborate on interesting projects
 
 ---
 
-## �️ Tech Stack
+## 💻 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
