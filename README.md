@@ -74,7 +74,7 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
+<!-- ---
 
 ## 📊 GitHub Statistics
 
@@ -87,7 +87,7 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurissena&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 ## 💼 Professional Experience
 
