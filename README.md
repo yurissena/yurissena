@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuri+Sena;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+Angular;Building+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuri+Sena;Software+Engineer;Java+%7C+Spring+Boot+%7C+Angular;Modernizing+Systems+in+Production" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://yurisena.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-yurisena.com-3B82F6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/yurisn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-yurisn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/yurissena/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-yurissena-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:dev.yurisn@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-dev.yurisn%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -25,17 +25,18 @@
 
 ## 👨‍💻 About Me
 
-🎓 **Bachelor in Computer Science** @ Tiradentes University  
-💼 **Full Stack Developer** @ Centro de Inovação Edge  
+🎓 **Bachelor in Computer Science** @ UNIMA Afya  
+💼 **Software Engineer II** @ Petrobras (EDGE)  
 📍 **Location:** Alagoas, Brazil 🇧🇷  
-🚀 **Currently Working On:** Strategic Petrobras Project - Drilling Well Management
+🚀 **Currently Working On:** Well planning, scheduling and cost management for Petrobras
 
-I'm a passionate Full Stack Developer focused on building **scalable**, **high-performance** web applications. I work with **Java**, **Spring Boot**, **Angular**, and **TypeScript** to deliver clean and efficient solutions. Currently developing fullstack solutions for Petrobras' strategic project, optimizing critical features for performance, scalability, and reliability.
+I'm a full-stack developer with 5+ years of experience building and modernizing platforms that organizations depend on to operate. My work keeps landing on the same kind of problem: a system that already carries real users and real money, and has to keep carrying them while being rebuilt underneath — framework migrations, query optimization, testing and CI/CD, without stopping delivery.
 
 ### 🎯 What I'm Focused On
-- � Building solutions for **Petrobras** (largest oil company in Brazil)
-- 🏗️ Developing with **Java (Spring Boot)** and **Angular**
-- 📈 Optimizing systems for **performance** and **scalability**
+- 🛢️ Building well planning and costing systems for **Petrobras**
+- 🏗️ Developing with **Java (Spring Boot, Hibernate)** and **Angular**
+- 🔧 **Legacy modernization**: framework migrations and paying down technical debt
+- 🧩 **Shared component libraries** consumed across multiple products
 - 🌱 Learning **Cloud Architecture**, **Microservices**, and **DevOps**
 
 ### ⚡ Fun Facts
@@ -58,6 +59,7 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -68,6 +70,9 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -91,22 +96,29 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 
 ## 💼 Professional Experience
 
-### 🏢 Centro de Inovação Edge
-**Full Stack Developer** | *Aug 2024 - Present*
-- Fullstack development on Petrobras' strategic project for drilling well costing and management
-- Backend with **Java (Spring Boot)** and frontend with **Angular**, **TypeScript** and **JavaScript**
-- Optimization of critical features ensuring **performance**, **scalability** and **reliability**
+### 🏢 Petrobras (EDGE)
+**Software Engineer II** | *Aug 2025 - Present*
+- Full-stack development of Petrobras' well-planning platform, used to build schedules and drilling budgets worth hundreds of millions
+- Led the backend migration from **Spring Boot 2.7 to 3.x** (Jakarta EE, Hibernate 6, Spring Security 6) across **200+ files**
+- Contributed to the shared **Angular component library** consumed by multiple Petrobras products
+- **70+ items delivered** in 12 months, across features, critical fixes and refactoring
 
 ### 🏢 Metasix Tecnologia
-**Full Stack Developer** | *Jul 2024 - Aug 2024*
+**Software Engineer II** | *Jul 2024 - Aug 2025*
+- Full-stack development of a multi-tenant CRM serving **1M+ daily users**
 - Support and development for major clients (São Paulo City Hall, São Paulo Metro, Rio de Janeiro City Hall)
-- Backend development with **Java (Wildfly and Spring Boot)**
+- Modernized legacy modules from **Java 8 to Java 17** and Spring Boot, with Wildfly on the legacy side
 
 ### 🏢 Unique Ingressos
-**Tech Lead** | *Jun 2022 - Mar 2024*
-- Led client meetings and technical strategy alignment
-- Managed cross-functional team focused on innovation
-- Boosted company revenue by **25%** through strategic development
+**Tech Lead** | *Aug 2022 - Jul 2024*
+- Led the engineering team of the ticketing platform alongside the founders
+- Rebuilt the purchase flow, boosting company revenue by **25%**
+- Established Git branching, code review and agile ceremonies, and mentored junior engineers
+
+**Software Engineer** | *Oct 2020 - Jul 2024*
+- Modernized the front end with **React**, replacing legacy pages across the platform
+- Built the **PHP** back end (Laravel and CodeIgniter) and optimized MySQL for **30K+ users**
+- Started as an intern and was hired full time, moving from small fixes to full ownership of features
 
 ---
 
@@ -117,8 +129,9 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | [**Portfolio**](https://yurisena.com) | Professional portfolio with modern design | React, Vite, TailwindCSS |
-| **Edge Platform** | Petrobras drilling well management system | Java, Spring Boot, Angular |
-| **Unique Ingressos** | E-commerce platform for ticket sales | PHP, Laravel, MySQL, React |
+| **Petrobras Platform** | Well planning, scheduling and cost management | Java, Spring Boot, Hibernate, Angular |
+| **Metasix CRM** | Multi-tenant CRM serving 1M+ daily users | Java, Spring Boot, Angular, PostgreSQL |
+| **Unique Ingressos** | Ticketing platform for concerts and live events | PHP, Laravel, MySQL, React |
 
 </div>
 
@@ -126,9 +139,11 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 
 ## 🏆 Achievements
 
-- 🚀 **25% Revenue Growth** at Unique Ingressos through strategic feature development
-- 📊 Optimized database for **30K+ users** with improved query performance
-- 🎯 Led strategic projects for **Petrobras** (largest oil company in Brazil)
+- 🚀 **25% Revenue Growth** at Unique Ingressos, from rebuilding the ticket purchase flow
+- 🔧 Led a **Spring Boot 2.7 → 3.x migration** across 200+ files at Petrobras
+- 👥 Built features on a CRM serving **1M+ daily users**
+- 📊 Optimized a database for **30K+ users** with improved query performance
+- 🧗 Went from **intern to tech lead** at the same company in under 2 years
 - 💡 Delivered solutions for major Brazilian government institutions
 
 ---
@@ -159,7 +174,11 @@ I'm a passionate Full Stack Developer focused on building **scalable**, **high-p
 
 ### 🐍 Contribution Snake
 
-![Snake animation](https://github.com/yurissena/yurissena/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yurissena/yurissena/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yurissena/yurissena/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/yurissena/yurissena/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
